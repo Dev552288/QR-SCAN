@@ -1,7 +1,0 @@
-
-y
-java:S1450"^Remove the "barcodeDetector" field and declare it as a local variable in the relevant methods.(ëÄìùÿÿÿÿ
-–
-java:S1186T"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦æ—&
-r
-java:S3252H"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(œ®€¿ûÿÿÿÿ
